@@ -1,115 +1,113 @@
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 #cabecalho {
-    position: fixed;
-    top: 0px;
-    text-align: center;
-    width: 100%;
-    background-color: bisque;
-    z-index: 2;
+  position: fixed;
+  top: 0;
+  text-align: center;
+  width: 100%;
+  background-color: bisque;
+  z-index: 2;
 }
 
 #navegacao {
-    padding: 10px 20px 20px;
+  padding: 10px 20px 20px;
 }
 
 #principal {
-    margin: 150px 10px 10px 10px;
+  margin: 150px 10px 10px;
 }
 
 #sobre-mim {
-    text-align: center;
+  text-align: center;
 }
 
 #aprendizado {
-    width: 45%;
-    display: inline-block;
-    padding: 40px 20px 20px 0;
+  width: 45%;
+  display: inline-block;
+  padding: 40px 20px 20px 0;
 }
 
 #lado {
-    text-align: center;
-    width: 45%;
-    display: inline-block;
-    position: relative;
-    bottom: 52px;
+  text-align: center;
+  width: 45%;
+  display: inline-block;
+  position: relative;
+  bottom: 52px;
 }
 
 #licoes {
-    text-align: center;
+  text-align: center;
 }
 
 .lista {
-    width: 45%;
-    line-height: 30px;
-    display: inline-block;
-    list-style: inside;
+  width: 45%;
+  line-height: 30px;
+  display: inline-block;
+  list-style: inside;
 }
 
 #table {
-    text-align: center;
+  text-align: center;
 }
 
 #tabela {
-    display: inline-block;
-    padding: 20px;
+  display: inline-block;
+  padding: 20px;
 }
 
 #rodape {
-    background-color: bisque;
-    color: #47126b;
-    margin: 40px 0 0 0;
-    text-align: center;
+  background-color: bisque;
+  color: rgb(71, 18, 107);
+  margin: 40px 0 0;
+  text-align: center;
 }
 
-
-
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 #titulo {
-    font-family: 'Lemonada', cursive, sans-serif;
-    padding: 10px;
-    color: #47126b;
+  font-family: Lemonada, cursive, sans-serif;
+  padding: 10px;
+  color: rgb(71, 18, 107);
 }
 
 .link-nav {
-    font-family: 'Quicksand', sans-serif;
-    padding: 10px 20px;
-    text-decoration: none;
-    font-weight: 900;
-    color: #47126b;
+  font-family: Quicksand, sans-serif;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: 900;
+  color: rgb(71, 18, 107);
 }
 
 .link-nav:hover {
-    background-color: #47126b;
-    color: bisque;
+  background-color: rgb(71, 18, 107);
+  color: bisque;
 }
 
 #titulo-sobre-mim {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 #minha_foto {
-    display: block;
-    margin: auto;
-    padding: 20px;
-    background-color: bisque;
-    border-radius: 10%;
-    border: 5px solid #47126b;
+  display: block;
+  margin: auto;
+  padding: 20px;
+  background-color: bisque;
+  border-radius: 10%;
+  border: 5px solid rgb(71, 18, 107);
 }
 
-#licoes_aprendidas, #licoes_a_aprender, p {
-    font-family: 'Quicksand', sans-serif;
+#licoes_aprendidas , #licoes_a_aprender , p {
+  font-family: Quicksand, sans-serif;
 }
 
-h3, h2 {
-    padding: 20px;
-    font-family: 'Quicksand', sans-serif;
-    font-weight: 900;
-    font-size: 25px;
+h3 , h2 {
+  padding: 20px;
+  font-family: Quicksand, sans-serif;
+  font-weight: 900;
+  font-size: 25px;
 }
