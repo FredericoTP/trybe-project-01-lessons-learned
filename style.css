@@ -49,10 +49,23 @@
     list-style: inside;
 }
 
+#table {
+    text-align: center;
+}
+
+#tabela {
+    display: inline-block;
+    padding: 20px;
+}
+
 #rodape {
     background-color: bisque;
     color: #47126b;
+    margin: 40px 0 0 0;
+    text-align: center;
 }
+
+
 
 body {
     background-color: rgb(253, 251, 251);
