@@ -16,7 +16,7 @@ In this project I used the main HTML tags to make up the structure of a page and
 
 <br />
 
-## <summary>1- Requirements</summary>
+## <details><summary>1- Requirements</summary>
 
 ## 1. Adicione uma cor de fundo específica para a página
 
@@ -249,6 +249,7 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 - O elemento posicionado à direita deve utilizar a classe `lado-direito`;
 - Os elementos com as classes `lado-direito` e `lado-esquerdo` estão posicionados corretamente.
 
+</details>
 </details>
 
 <br />
