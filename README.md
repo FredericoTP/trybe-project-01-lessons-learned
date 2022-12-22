@@ -258,15 +258,17 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 </details>
 
 <br />
-
-<details>
-<summary>
  
 ## 2- Project Grade
 
-</summary>
+## 100% :heavy_check_mark:
+
 ![Project-Lessons-Learned-Grade](https://github.com/FredericoTP/trybe-project-01-lessons-learned/blob/main/images/project-grade.png)
 
 <br />
 
 ## 3- Preview
+  
+</summary>
+  
+Ainda vou pegar
