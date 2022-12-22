@@ -16,7 +16,7 @@ In this project I used the main HTML tags to make up the structure of a page and
 
 <br />
 
-## <summary>1- Requirements
+## <summary>1- Requirements</summary>
 
 ## 1. Adicione uma cor de fundo específica para a página
 
@@ -250,9 +250,12 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 - Os elementos com as classes `lado-direito` e `lado-esquerdo` estão posicionados corretamente.
 
 </details>
-</summary>
 
 <br />
 
 ## 2- Project Grade
 ![Project-Lessons-Learned-Grade](https://github.com/FredericoTP/trybe-project-01-lessons-learned/blob/main/images/project-grade.png)
+
+<br />
+
+## 3- Preview
