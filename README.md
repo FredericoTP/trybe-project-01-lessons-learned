@@ -16,9 +16,14 @@ In this project I used the main HTML tags to make up the structure of a page and
 
 <br />
 
-## <details><summary>1- Requirements</summary>
+<details>
+<summary>
+  
+## 1- Requirements
 
-## 1. Adicione uma cor de fundo específica para a página
+</summary>
+
+### 1. Adicione uma cor de fundo específica para a página
 
 <details>
 
@@ -31,7 +36,7 @@ In this project I used the main HTML tags to make up the structure of a page and
 
 </details>
 
-## 2. Adicione uma barra superior com um título
+### 2. Adicione uma barra superior com um título
 
 <details>
 
@@ -49,7 +54,7 @@ In this project I used the main HTML tags to make up the structure of a page and
 
 </details>
 
-## 3. Adicione uma foto sua à página
+### 3. Adicione uma foto sua à página
 
 <details>
 
@@ -62,7 +67,7 @@ In this project I used the main HTML tags to make up the structure of a page and
 
 </details>
 
-## 4. Adicione uma lista de lições aprendidas à página
+### 4. Adicione uma lista de lições aprendidas à página
 
 <details>
 
@@ -79,7 +84,7 @@ In this project I used the main HTML tags to make up the structure of a page and
 
 </details>
 
-## 5. Crie uma lista de lições que ainda deseja aprender para a página
+### 5. Crie uma lista de lições que ainda deseja aprender para a página
 
 <details>
 
@@ -96,7 +101,7 @@ In this project I used the main HTML tags to make up the structure of a page and
 
 </details>
 
-## 6. Adicione um rodapé para a página
+### 6. Adicione um rodapé para a página
 
 <details>
 
@@ -111,7 +116,7 @@ In this project I used the main HTML tags to make up the structure of a page and
 
 </details>
 
-## 7. Insira pelo menos um link externo na página
+### 7. Insira pelo menos um link externo na página
 
 <details>
 
@@ -126,7 +131,7 @@ In this project I used the main HTML tags to make up the structure of a page and
 
 </details>
 
-## 8. Crie um artigo sobre o seu aprendizado
+### 8. Crie um artigo sobre o seu aprendizado
 
 <details>
 
@@ -140,7 +145,7 @@ In this project I used the main HTML tags to make up the structure of a page and
 
 </details>
 
-## 9. Crie uma tag html `aside` que contenha uma breve descrição sobre você
+### 9. Crie uma tag html `aside` que contenha uma breve descrição sobre você
 
 <details>
 
@@ -157,7 +162,7 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 
 </details>
 
-## 10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles
+### 10. Aplique elementos HTML de acordo com o sentido e propósito de cada um deles
 
 <details>
 
@@ -173,7 +178,7 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 
 </details>
 
-## 11. Teste a semântica da sua página usando o site [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/)
+### 11. Teste a semântica da sua página usando o site [CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/)
 
 <details>
 
@@ -188,9 +193,9 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 
 ---
  
-# Requisitos Bônus
+## Requisitos Bônus
 
-## 12. Adicione uma tabela à página
+### 12. Adicione uma tabela à página
 
 <details>
 
@@ -205,7 +210,7 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 
 </details>
 
-## 13. Utilize o Box model
+### 13. Utilize o Box model
 
 <details>
 
@@ -220,7 +225,7 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 
 </details>
 
-## 14. Altere atributos relacionados às fontes
+### 14. Altere atributos relacionados às fontes
 
 <details>
 
@@ -236,7 +241,7 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 
 </details>
 
-## 15. Posicione a tag `article` e a tag `aside` uma ao lado do outra
+### 15. Posicione a tag `article` e a tag `aside` uma ao lado do outra
 
 <details>
 
@@ -254,7 +259,12 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 
 <br />
 
+<details>
+<summary>
+ 
 ## 2- Project Grade
+
+</summary>
 ![Project-Lessons-Learned-Grade](https://github.com/FredericoTP/trybe-project-01-lessons-learned/blob/main/images/project-grade.png)
 
 <br />
