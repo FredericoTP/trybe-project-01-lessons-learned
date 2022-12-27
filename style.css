@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+body {
+  min-height: 100%;
+}
+
 #cabecalho {
   position: fixed;
   top: 0;
@@ -51,6 +55,7 @@
 
 #table {
   text-align: center;
+  margin: 0 0 80px;
 }
 
 #tabela {
@@ -63,6 +68,9 @@
   color: rgb(71, 18, 107);
   margin: 40px 0 0;
   text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 body {
