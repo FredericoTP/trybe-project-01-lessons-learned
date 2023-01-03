@@ -1,25 +1,17 @@
 # :computer: Trybe-01-Project-Lessons-Learned :computer:
 
-In this project I used the main HTML tags to make up the structure of a page and styled the components using CSS.
+Nesse projeto utilizei as prinicpais tags HTML para fazer a estrutura da página com informações sobre o que aprendi nas primeiras seções da Trybe e estilizei os componentes utilizando CSS.
 
 <br />
 
-# Access the project by clicking [here]()! :green_heart:
-
-<br />
-
-# Menu
-
-## 1- Requirements
-## 2- Project Grade
-## 3- Preview
+# Acesse o projeto clicando [aqui]()! :green_heart:
 
 <br />
 
 <details>
 <summary>
   
-## 1- Requirements
+## 1- Requisitos
 
 </summary>
 
@@ -130,7 +122,7 @@ Adicione ao elemento posicionado no lado esquerdo a classe <code>lado-esquerdo</
 
 <br />
  
-## 2- Project Grade
+## 2- Nota do Projeto
 
 ## 100% :heavy_check_mark:
 
@@ -140,6 +132,6 @@ Adicione ao elemento posicionado no lado esquerdo a classe <code>lado-esquerdo</
 
 ## 3- Preview
   
-</summary>
+![Project-Lessons-Learned-Preview](https://github.com/FredericoTP/trybe-project-01-lessons-learned/blob/main/images/preview.png?raw=true)
   
-Ainda vou pegar
+</summary>
