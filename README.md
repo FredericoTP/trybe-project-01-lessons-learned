@@ -4,7 +4,7 @@ Nesse projeto utilizei as prinicpais tags HTML para fazer a estrutura da página
 
 <br />
 
-# Acesse o projeto clicando [aqui]()! :green_heart:
+# Acesse o projeto clicando [aqui](https://fredericotp.github.io/trybe-project-01-lessons-learned/)! :green_heart:
 
 <br />
 
